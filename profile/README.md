@@ -2,12 +2,9 @@
 
 # VSL Digitalisation Organisation
 
-<!--
-
 **Guidelines:**
 
 - All Code sources for the different digitalisation project need to be hosted on this organisation
 - Rights are given to each repositories by the owners of the organisation
 - If needed, feel free to contact joseph.liagre@vsl.com
 
--->
