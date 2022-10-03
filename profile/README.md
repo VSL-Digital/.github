@@ -1,4 +1,4 @@
-![ITF_TABLET_APP](https://vsl.com/wp-content/uploads/2020/09/cropped-VSLLOGO.png)
+![ITF_TABLET_APP](https://tio-excavation.com/img/vslitf.jpg)
 
 # VSL Digitalisation Organisation
 
