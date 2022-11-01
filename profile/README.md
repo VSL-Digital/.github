@@ -1,6 +1,6 @@
 ![ITF_TABLET_APP](https://tio-excavation.com/img/vslitf.jpg)
 
-# VSL Digitalisation Organisation
+# VSL / INTRAFOR Digitalisation Organisation
 
 **Guidelines:**
 
